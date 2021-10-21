@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Harrison Teele Midterm App</string>
+
+    <string name="Zero">0</string>
+    <string name="One">1</string>
+    <string name="Two">2</string>
+    <string name="Three">3</string>
+    <string name="Four">4</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Eight">8</string>
+    <string name="Nine">9</string>
+
+    <string name="Clear">C</string>
+    <string name="Exponent">^</string>
+    <string name="Parentheses">( )</string>
+    <string name="Add">+</string>
+    <string name="Subtract">-</string>
+    <string name="Multiply">×</string>
+    <string name="Divide">÷</string>
+    <string name="Decimal">.</string>
+    <string name="Equals">=</string>
+    <string name="PlusMinus">+/-</string>
+
+    <string name="Backspace"> </string>
+    <string name="display">Enter in a value</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="title">Soundboard!</string>
+    <string name="Charles">CHARL!</string>
+    <string name="Rin">ERIN</string>
+    <string name="Oli">OLIVIA</string>
+    <string name="Greg">GREG</string>
+    <string name="Jacob">JACOB</string>
+    <string name="Lily">LILY</string>
+    <string name="Richie">RICHIE</string>
+    <string name="Wiggy">WIGGY</string>
+
+
+
+</resources>
